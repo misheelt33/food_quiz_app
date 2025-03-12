@@ -1,16 +1,19 @@
 [
   {
     "question": "Ene ymar hool be?",
+    "img-url" : "https://raw.githubusercontent.com/misheelt33/food_quiz_app/refs/heads/main/Sweet_and_Sour_Chicken.jpeg",
     "options": ["Uhriin mah", "Tahianii mah", "Honinii mah", "Galuunii mah"],
     "answer": "Tahinii mah"
   },
   {
     "question": "Ene ymar hool be?",
+    "img-url" : "https://raw.githubusercontent.com/misheelt33/food_quiz_app/refs/heads/main/side-shot-Korean-corn-dog-thumbnail.jpeg",
     "options": ["Cake", "Modtoi chiher", "Corndog", "Flower"],
     "answer": "Corndog"
   },
   {
     "question": "En ymar hool ve?",
+    "img-url": "https://raw.githubusercontent.com/misheelt33/food_quiz_app/refs/heads/main/DSC8399-2-e1696691292303.jpeg",
     "options": [
       "Sushi",
       "gimbap",
@@ -21,6 +24,7 @@
   },
   {
     "question": "En ymar hool ve",
+    "img-url":"https://raw.githubusercontent.com/misheelt33/food_quiz_app/refs/heads/main/DSC8399-2-e1696691292303.jpeg",
     "options": [
       "chiher",
       "tteokbokki",
@@ -31,6 +35,7 @@
   },
   {
     "question": "Ene ymar hool ve?",
+    "img-url": " https://raw.githubusercontent.com/misheelt33/food_quiz_app/refs/heads/main/DSC8399-2-e1696691292303.jpeg",
     "options": [
       "Fries",
       "Sandwich",
