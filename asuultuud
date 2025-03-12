@@ -1,0 +1,43 @@
+[
+  {
+    "question": "Ene ymar hool be?",
+    "options": ["Uhriin mah", "Tahianii mah", "Honinii mah", "Galuunii mah"],
+    "answer": "Tahinii mah"
+  },
+  {
+    "question": "Ene ymar hool be?",
+    "options": ["Cake", "Modtoi chiher", "Corndog", "Flower"],
+    "answer": "Corndog"
+  },
+  {
+    "question": "En ymar hool ve?",
+    "options": [
+      "Sushi",
+      "gimbap",
+      "oroomog",
+      "tteokbokki"
+    ],
+    "answer": "gimbap"
+  },
+  {
+    "question": "En ymar hool ve",
+    "options": [
+      "chiher",
+      "tteokbokki",
+      "savh",
+      "cookie"
+    ],
+    "answer": "tteokbokki"
+  },
+  {
+    "question": "Ene ymar hool ve?",
+    "options": [
+      "Fries",
+      "Sandwich",
+      "Burger",
+      "Chicken"
+    ],
+    "answer": "Burger"
+  }
+  
+]
