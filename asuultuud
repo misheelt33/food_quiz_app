@@ -24,7 +24,7 @@
   },
   {
     "question": "En ymar hool ve",
-    "img-url":"https://raw.githubusercontent.com/misheelt33/food_quiz_app/refs/heads/main/DSC8399-2-e1696691292303.jpeg",
+    "img-url":"https://raw.githubusercontent.com/misheelt33/food_quiz_app/refs/heads/main/Main-shot-of-spicy-vegan-tteokbokki-with-tempura-add-on-scaled.jpeg",
     "options": [
       "chiher",
       "tteokbokki",
@@ -35,8 +35,8 @@
   },
   {
     "question": "Ene ymar hool ve?",
-    "img-url": " https://raw.githubusercontent.com/misheelt33/food_quiz_app/refs/heads/main/DSC8399-2-e1696691292303.jpeg",
-    "options": [
+    "img-url": " https://raw.githubusercontent.com/misheelt33/food_quiz_app/refs/heads/main/image.jpeg",
+    "options": [ 
       "Fries",
       "Sandwich",
       "Burger",
